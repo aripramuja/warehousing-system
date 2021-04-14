@@ -1,0 +1,5 @@
+baju       5
+celana       5
+kasur       7
+guling       2
+cuci       4

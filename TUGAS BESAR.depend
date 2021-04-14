@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1553052914 source:c:\users\zikirullah\desktop\tugas besar\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1556162630 source:e:\cpp\tugas besar\tugas besar\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
+1560464044 source:d:\universitas pertamina\up18 - semester 2\dasar pemrograman\ap2\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+

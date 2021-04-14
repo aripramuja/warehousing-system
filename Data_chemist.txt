@@ -1,0 +1,8 @@
+alkohol       40
+uranium       5
+garam       80
+hcl       30
+sulfat       70
+kapur       12
+spidol       15
+nuklir       10

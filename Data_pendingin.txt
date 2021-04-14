@@ -1,0 +1,8 @@
+laptop       11
+ikan       10
+ayam       16
+udang       10
+kepiting	17
+cumi-cumi	10
+hiu		12
+paus		20
